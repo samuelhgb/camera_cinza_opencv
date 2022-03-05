@@ -1,1 +1,0 @@
-# camera_cinza_opencv
